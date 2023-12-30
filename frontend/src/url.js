@@ -1,4 +1,4 @@
-export const URL="aroundtheglode-blog.vercel.app
+export const URL="https://aroundtheglode-blog.vercel.app
 r"
-export const IF="aroundtheglode-blog.vercel.app
+export const IF="https://aroundtheglode-blog.vercel.app
 /images/"
