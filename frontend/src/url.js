@@ -1,4 +1,2 @@
-export const URL="https://aroundtheglode-blog.vercel.app
-r"
-export const IF="https://aroundtheglode-blog.vercel.app
-/images/"
+export const URL="http://localhost:3000"
+export const IF="http://localhost:3000/images/"
